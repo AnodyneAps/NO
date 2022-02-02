@@ -1,0 +1,252 @@
+{
+  "sections": {
+    "1636011126d2c47b6d": {
+      "type": "HTML-columns",
+      "blocks": {
+        "1636011126d2c47b6d-0": {
+          "type": "HTML_column",
+          "settings": {
+            "wrapper_size": "",
+            "html_area_1": "<div style=\"margin:-40px 20px -60px 20px\">\n<h1>Øvelser for tøying av rygg og nakke<\/h1>\n<p>Lider du av nakkesmerter eller spenninger i skulder eller rygg? I samarbeid med kiropraktor og klinikkeier Michael Justad fra JustHealth har vi i videoen under samlet 5 enkle øvelser som du kan gjøre på under 5 minutter – på kontoret eller hjemme. Det tar kun fem minutter. <\/p>\n<\/div>",
+            "column_width_1": 12,
+            "column_width_mobile_1": 12,
+            "text_alignment_1": "text-center",
+            "html_area_2": "",
+            "column_width_2": 4,
+            "column_width_mobile_2": 12,
+            "text_alignment_2": "text-center",
+            "html_area_3": "",
+            "column_width_3": 4,
+            "column_width_mobile_3": 12,
+            "text_alignment_3": "text-center",
+            "html_area_4": "",
+            "column_width_4": 4,
+            "column_width_mobile_4": 12,
+            "text_alignment_4": "text-center",
+            "html_area_5": "",
+            "column_width_5": 4,
+            "column_width_mobile_5": 12,
+            "text_alignment_5": "text-center",
+            "html_area_6": "",
+            "column_width_6": 4,
+            "column_width_mobile_6": 12,
+            "text_alignment_6": "text-center",
+            "html_area_7": "",
+            "column_width_7": 4,
+            "column_width_mobile_7": 12,
+            "text_alignment_7": "text-center",
+            "html_area_8": "",
+            "column_width_8": 4,
+            "column_width_mobile_8": 12,
+            "text_alignment_8": "text-center",
+            "html_area_9": "",
+            "column_width_9": 4,
+            "column_width_mobile_9": 12,
+            "text_alignment_9": "text-center",
+            "html_area_10": "",
+            "column_width_10": 4,
+            "column_width_mobile_10": 12,
+            "text_alignment_10": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "1636011126d2c47b6d-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank"
+      }
+    },
+    "163600963681aed54c": {
+      "type": "featured-video",
+      "blocks": {
+        "163600963681aed54c-0": {
+          "type": "video",
+          "settings": {
+            "video_cover_image": "shopify:\/\/shop_images\/Cover_video.jpg",
+            "video_url": "https:\/\/youtu.be\/ZQfZUp2EAc8",
+            "video_url_fr": "",
+            "animated_button": false
+          }
+        }
+      },
+      "block_order": [
+        "163600963681aed54c-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": false,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank"
+      }
+    },
+    "16363589409f6f02aa": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Working_posture_1296x1296_128a7363-9a79-49ec-98a6-657a257c5ae1.jpg",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "Optimer din arbeidsstilling på kontoret",
+        "text": "<p>Hvis du lider av nakke, skulder eller rygg spenninger fordi du har et hovedsakelig stillesittende arbeid, vil disse 5 avspenningsøvelsene hjelpe deg med å linder og forebygge dette i hverdagen. Det kan samtidig være en fordel å se på måter du kan optimere arbeidsstillingen din. <\/p><p><strong>Følg disse tipsene for en korrekt arbeidsstilling ved skrivebord:<\/strong><\/p><p>• Sitt med rett rygg, skyv bekkenet inn og trekk skuldrene<br\/>bakover - sett fra siden skal ryggraden være i en S-kurve<\/p><p>• Ben og knær bør være i 90 graders vinkel eller høyere<\/p><p>• Begge albuene skal hvile på et skrivebord eller armlen i<br\/>rett vinkel fra kroppen slik at skuldrene slapper av<\/p><p>• Datamaskin eller dataskjerm må være plassert i øyehøyde<\/p><p>• Bytt arbeidsstilling ofte og veksle mellom stående og<br\/>sittende<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "163636123033606d35": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Bestselgere",
+        "subtitle": "",
+        "section_style": "section-default",
+        "home_featured_products": "alle-produkter",
+        "rows": "2",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "",
+        "button_style": "btn-outline-primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    },
+    "16363636370262f21e": {
+      "type": "HTML-columns",
+      "blocks": {
+        "16363636370262f21e-0": {
+          "type": "HTML_column",
+          "settings": {
+            "wrapper_size": "",
+            "html_area_1": "<div style=\"margin-top:-30px\">\n<h2>Holdningskorrigerende produkter til kontorarbeid<\/h2>\n<p>Hos Anodyne® tilbyr vi produkter innen holdningskorreksjon, lindring og generell kroppshelse. Våre produkter har som mål å øke holdningsbevisstheten, lindre og støtte kroppen i dagliglivet, lindre smerte og spenninger, samt øke daglig velvære. Kroppshelse står i fokus, og det er derfor viktig å slå fast at vi alltid anbefaler å bruke produktene som et supplement til en aktiv livsstil, da trening og bevegelse er grunnleggende for kroppens helse.<\/p>\n<p><\/p>\n<\/div>",
+            "column_width_1": 12,
+            "column_width_mobile_1": 12,
+            "text_alignment_1": "text-center",
+            "html_area_2": "",
+            "column_width_2": 4,
+            "column_width_mobile_2": 12,
+            "text_alignment_2": "text-center",
+            "html_area_3": "",
+            "column_width_3": 4,
+            "column_width_mobile_3": 12,
+            "text_alignment_3": "text-center",
+            "html_area_4": "",
+            "column_width_4": 4,
+            "column_width_mobile_4": 12,
+            "text_alignment_4": "text-center",
+            "html_area_5": "",
+            "column_width_5": 4,
+            "column_width_mobile_5": 12,
+            "text_alignment_5": "text-center",
+            "html_area_6": "",
+            "column_width_6": 4,
+            "column_width_mobile_6": 12,
+            "text_alignment_6": "text-center",
+            "html_area_7": "",
+            "column_width_7": 4,
+            "column_width_mobile_7": 12,
+            "text_alignment_7": "text-center",
+            "html_area_8": "",
+            "column_width_8": 4,
+            "column_width_mobile_8": 12,
+            "text_alignment_8": "text-center",
+            "html_area_9": "",
+            "column_width_9": 4,
+            "column_width_mobile_9": 12,
+            "text_alignment_9": "text-center",
+            "html_area_10": "",
+            "column_width_10": 4,
+            "column_width_mobile_10": 12,
+            "text_alignment_10": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "16363636370262f21e-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank"
+      }
+    },
+    "163636091562f8a855": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Lumbar.jpg",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Avlast rygg og korsrygg med skulderstøtte eller korsryggbelte",
+        "text": "<p>Ryggen vår er spesielt utsatt når vi sitter mye, og det kan defor være en fordel å avlaste rygg og skuldre i løpet av arbeidsdagen. Hos Anodyne® tilbyr vi en rekke produkter for ryggstøtte, inkludert våre skulderstøtter og korsryggbelte. Begge produktene er ideelle verktøy for å forebygge og behandle smerter og spenninger, og de fungerer som hjelpemidler for å støtte og avlaste musklene når et akutt behov oppstår. Våre skulderstøtter fremmer en god holdning når du bruker produktet, og kan med fordel brukes ved smerter og spenninger i nakke, skulder og øvre del av ryggen. Skulderbladene trekkes tilbake på plass, og avlaster skuldre og øvre del av ryggen. Korsryggbeltet kan med fordel brukes dersom du lider av smerter eller spenninger i korsryggen. Korsryggbeltet støtter og avlaster muskler og ledd, samtidig som trykket på musklene reduseres, og samtidig bidrar det til økt fokus på holdningen rundt korsryggen.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "Se utvalget",
+        "button_link": "shopify:\/\/collections\/ryggstoette"
+      }
+    },
+    "1636360953a3f8a06e": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Posture_shirt.jpg",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "Forhindre spenninger med en holdsningskorrigerende trøye",
+        "text": "<p>Er holdningen optimal når du sitter, kan du i de fleste tilfeller unngå å få smerter eller spenninger i nakke og rygg, men det er vanskelig å hele tiden huske å rette opp ryggen. Ønsker du hjelp til å huske den gode holdningen, da er vår Posture Shirt et opplagt valg. De integrerte støttestroppene på ryggen, kalt NeuroBands ™, trekker enkelt på skuldrene, slik at du blir minnet på at de må trekkes tilbake på plass. Posture Shirt™ fungerer dermed som en påminnelse om å aktivere musklene i øvre del av ryggen, noe som gjør det lettere å huske å rette opp ryggen i løpet av dagen og gjøre god holdning til en vane.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "Se utvalget",
+        "button_link": "shopify:\/\/collections\/posture-shirt"
+      }
+    },
+    "163636096212911faf": {
+      "type": "featured-row",
+      "disabled": true,
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "section_style": "section-blank",
+        "text_size": "large",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Optimise sitting posture with ergonomic products",
+        "text": "<p>We also offer a range of products that specifically helps with your posture at the desk, including our BackJoy Posture+, Support Seat and Back Pillow. All products help to prevent lower back pain and tension, which can easily occur in a primarily sedentary job.<\/p><p>The products provides good lumbar support, reduces pressure on the lower back muscles and brings out the natural lumbar sway by pushing the pelvis forward. Use the products at your desk, dining table, on the sofa, in the car, and anywhere else you need extra lumbar support.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "View selection",
+        "button_link": "\/collections\/rygstoette\/"
+      }
+    }
+  },
+  "order": [
+    "1636011126d2c47b6d",
+    "163600963681aed54c",
+    "16363589409f6f02aa",
+    "163636123033606d35",
+    "16363636370262f21e",
+    "163636091562f8a855",
+    "1636360953a3f8a06e",
+    "163636096212911faf"
+  ]
+}

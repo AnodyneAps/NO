@@ -1,0 +1,362 @@
+{
+  "sections": {
+    "1637325960a723ac8f": {
+      "type": "featured-image",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": true,
+        "image": "shopify:\/\/shop_images\/Smertelindring_hero.jpg",
+        "section_style": "section-blank",
+        "wrapper__height": 360,
+        "image_title": "<p><strong>Smertelindring og god<br\/>holdning<\/strong><\/p>",
+        "image_subtitle": "",
+        "image_btntext": "",
+        "image_link": "",
+        "show_on_image_scrolldown": false
+      }
+    },
+    "163577518155d0cfa9": {
+      "type": "HTML-columns",
+      "blocks": {
+        "163577518155d0cfa9-0": {
+          "type": "HTML_column",
+          "settings": {
+            "wrapper_size": "",
+            "html_area_1": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/TPGrXrV\/Ease.png\" alt=\"Ease\" style=\"max-width:50px;width:100%\"><h2>Lindrer smerter\n<\/h2>\n<p>En sunn holdning kan lindre spenninger og smerter I rygg, skuldre og nakke.<\/p>\n<\/div>",
+            "column_width_1": 4,
+            "column_width_mobile_1": 12,
+            "text_alignment_1": "text-center",
+            "html_area_2": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/t8q4kDW\/Prevents.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Forebygger skader<\/h2>\n<p>Hjelper med å forebygge at du får skader i fremtiden.<\/p>\n<\/div>",
+            "column_width_2": 4,
+            "column_width_mobile_2": 12,
+            "text_alignment_2": "text-center",
+            "html_area_3": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/BCR1Fg3\/Alleviate.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Avlaster kroppen<\/h2>\n<p>Avlaster utsatte muskelgrupper og sikrer at kroppen din holder i mange år til.<\/p>\n<\/div>",
+            "column_width_3": 4,
+            "column_width_mobile_3": 12,
+            "text_alignment_3": "text-center",
+            "html_area_4": "",
+            "column_width_4": 4,
+            "column_width_mobile_4": 12,
+            "text_alignment_4": "text-center",
+            "html_area_5": "",
+            "column_width_5": 4,
+            "column_width_mobile_5": 12,
+            "text_alignment_5": "text-center",
+            "html_area_6": "",
+            "column_width_6": 4,
+            "column_width_mobile_6": 12,
+            "text_alignment_6": "text-center",
+            "html_area_7": "",
+            "column_width_7": 4,
+            "column_width_mobile_7": 12,
+            "text_alignment_7": "text-center",
+            "html_area_8": "",
+            "column_width_8": 4,
+            "column_width_mobile_8": 12,
+            "text_alignment_8": "text-center",
+            "html_area_9": "",
+            "column_width_9": 4,
+            "column_width_mobile_9": 12,
+            "text_alignment_9": "text-center",
+            "html_area_10": "",
+            "column_width_10": 4,
+            "column_width_mobile_10": 12,
+            "text_alignment_10": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "163577518155d0cfa9-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "<div style=\"margin-bottom:-50px\"><\/div>",
+        "subtitle": "",
+        "section_style": "section-default"
+      }
+    },
+    "16358413676827deec": {
+      "type": "mission",
+      "blocks": {
+        "16358413676827deec-0": {
+          "type": "html",
+          "settings": {
+            "mission_title": "<div style=\"margin-top:30px\"><h1>Smertelindring med holdningskorrigerende klær<\/h1><\/div>",
+            "mission_description": "<div style=\"margin-bottom:0px\"><p>Vi strekker oss langt for å kunne dokumentere effekten av produktene våre. Derfor har vi utarbeidet en uavhengig spørreundersøkelse, som samlet inn svar fra 1039 av våre kunder. Studien konkluderer med at vår Posture Shirt™ har en positiv effekt på holdningen og kan brukes som et komplementært hjelpemiddel for smertelindring i hode, nakke, skuldre og rygg.<\/p><\/div>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center",
+            "btn_text": "",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "16358413676827deec-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "margin__bottom": 30,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "1635839832c61f83f2": {
+      "type": "featured-html-columns",
+      "blocks": {
+        "1635839832c61f83f2-0": {
+          "type": "HTML_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Shoulders.jpg",
+            "title": "",
+            "text": "<strong>73% <\/strong>opplever at frekvensen av rygg- og skuldersmerter har gått ned.",
+            "button_style": "btn--primary",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1635839832c61f83f2-1": {
+          "type": "HTML_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Neck.jpg",
+            "title": "",
+            "text": "<strong>70% <\/strong>opplever at frekvensen av nakkesmerter har gått ned.<br><br>",
+            "button_style": "btn--primary",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "1635839832c61f83f2-2": {
+          "type": "HTML_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lumbar2.jpg",
+            "title": "",
+            "text": "<strong>65% <\/strong>opplever at intensiteten av korsryggsmertene er redusert.<br><br>",
+            "button_style": "btn--primary",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "256f7a0f-dd55-4e3e-8d8b-d17f7fe33ca9": {
+          "type": "HTML_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Headache.jpg",
+            "title": "",
+            "text": "<strong>77% <\/strong>føler at intensiteten av hodepinen er redusert.<br><br>",
+            "button_style": "btn--primary",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1635839832c61f83f2-0",
+        "1635839832c61f83f2-1",
+        "1635839832c61f83f2-2",
+        "256f7a0f-dd55-4e3e-8d8b-d17f7fe33ca9"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "text_align": "text-center"
+      }
+    },
+    "16358466932eca0b65": {
+      "type": "HTML-columns",
+      "disabled": true,
+      "blocks": {
+        "16358466932eca0b65-0": {
+          "type": "HTML_column",
+          "settings": {
+            "wrapper_size": "",
+            "html_area_1": "<div style=\"margin-top:-100px; margin-bottom:-90px\"><a class=\"btn btn--small btn-outline-primary\" href=\"https:\/\/www.anodyne.dk\/pages\/test-af-holdningstoj\">Les mer om testen<\/a><\/div>",
+            "column_width_1": 12,
+            "column_width_mobile_1": 12,
+            "text_alignment_1": "text-center",
+            "html_area_2": "",
+            "column_width_2": 4,
+            "column_width_mobile_2": 12,
+            "text_alignment_2": "text-center",
+            "html_area_3": "",
+            "column_width_3": 4,
+            "column_width_mobile_3": 12,
+            "text_alignment_3": "text-center",
+            "html_area_4": "",
+            "column_width_4": 4,
+            "column_width_mobile_4": 12,
+            "text_alignment_4": "text-center",
+            "html_area_5": "",
+            "column_width_5": 4,
+            "column_width_mobile_5": 12,
+            "text_alignment_5": "text-center",
+            "html_area_6": "",
+            "column_width_6": 4,
+            "column_width_mobile_6": 12,
+            "text_alignment_6": "text-center",
+            "html_area_7": "",
+            "column_width_7": 4,
+            "column_width_mobile_7": 12,
+            "text_alignment_7": "text-center",
+            "html_area_8": "",
+            "column_width_8": 4,
+            "column_width_mobile_8": 12,
+            "text_alignment_8": "text-center",
+            "html_area_9": "",
+            "column_width_9": 4,
+            "column_width_mobile_9": 12,
+            "text_alignment_9": "text-center",
+            "html_area_10": "",
+            "column_width_10": 4,
+            "column_width_mobile_10": 12,
+            "text_alignment_10": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "16358466932eca0b65-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank"
+      }
+    },
+    "16358488013c1aad95": {
+      "type": "HTML-columns",
+      "blocks": {
+        "16358488013c1aad95-0": {
+          "type": "HTML_column",
+          "settings": {
+            "wrapper_size": "",
+            "html_area_1": "<div style=\"margin-top:-40px; margin-bottom:0px\">\n<h2>Vi er medisinsk registrert<\/h2>\n<img src=\"https:\/\/i.ibb.co\/rF0hmhY\/Registrering2.png\">\n<p>Anodyne® er den eneste forhandleren av holdningskorrigerende klær i Europa, som har produkter som er både FDA-registrert og CE-merket som medisinsk utstyr.\nDet betyr at våre produkter overholder en rekke strenge krav til miljø, sikkerhet, kvalitet og ytelse.\n<br>\nDenne registreringen gjelder både vår Posture Shirt™, SpinalQ Pro og MyLign Pro.\n<\/p>\n<\/div>\n<a class=\"btn btn--small btn-outline\" href=\"https:\/\/www.anodyne.no\/collections\/posture-shirt\">Se utvalget<\/a>",
+            "column_width_1": 12,
+            "column_width_mobile_1": 12,
+            "text_alignment_1": "text-center",
+            "html_area_2": "",
+            "column_width_2": 4,
+            "column_width_mobile_2": 12,
+            "text_alignment_2": "text-center",
+            "html_area_3": "",
+            "column_width_3": 4,
+            "column_width_mobile_3": 12,
+            "text_alignment_3": "text-center",
+            "html_area_4": "",
+            "column_width_4": 4,
+            "column_width_mobile_4": 12,
+            "text_alignment_4": "text-center",
+            "html_area_5": "",
+            "column_width_5": 4,
+            "column_width_mobile_5": 12,
+            "text_alignment_5": "text-center",
+            "html_area_6": "",
+            "column_width_6": 4,
+            "column_width_mobile_6": 12,
+            "text_alignment_6": "text-center",
+            "html_area_7": "",
+            "column_width_7": 4,
+            "column_width_mobile_7": 12,
+            "text_alignment_7": "text-center",
+            "html_area_8": "",
+            "column_width_8": 4,
+            "column_width_mobile_8": 12,
+            "text_alignment_8": "text-center",
+            "html_area_9": "",
+            "column_width_9": 4,
+            "column_width_mobile_9": 12,
+            "text_alignment_9": "text-center",
+            "html_area_10": "",
+            "column_width_10": 4,
+            "column_width_mobile_10": 12,
+            "text_alignment_10": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "16358488013c1aad95-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-default"
+      }
+    },
+    "1635847349cfc999cc": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Kinesotape_to_posture_shirt.jpg",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Inspirert av kinesiotape",
+        "text": "<p>Anodyne® Posture Shirt™ er den originale holdningskorrigerende t-skjorten på markedet. T-skjorten er utviklet på bakgrunn av vitenskapelige studier om menneskelig fysiologi og med inspirasjon fra bruk av kinesiotape som fysioterapeutisk behandling av smerte.<\/p><p>Kinesiotapen er integrert i vår Posture Shirt™ med de såkalte NeuroBands™ på ryggen - støttestropper plassert nøyaktig der kinesiotape vanligvis påføres. Disse NeuroBands™ er sentrale for t-skjortens evne til å fremme en bedre holdning, og trekker skuldrene litt bakover. Denne funksjonen minner kroppen på å rette seg opp og opprettholde en god holdning.<\/p>",
+        "button_style": "btn-outline-primary",
+        "button_label": "Les mer",
+        "button_link": "shopify:\/\/collections\/posture-shirt"
+      }
+    },
+    "16358473897202a471": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/MK2.jpg",
+        "section_style": "section-default",
+        "text_size": "large",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "Smertelindring er en del av vårt DNA",
+        "text": "<p>Anodyne® ble grunnlagt fordi direktøren, Kenneth, selv led av smerter i mange år. Etter utallige fysioterapeutiske behandlinger og lang leting fant han en holdningskorrigerende t-skjorte fra USA, som hjalp ham å rette opp holdningen. Effekten var ikke å ta feil av, og han visste med en gang at denne t-skjorten bare måtte deles med andre som også sliter med smerter. Derfor grunnla han, sammen med sin kone Mia, Anodyne® i 2014 og begynte å selge den såkalte Posture Shirt™ i Europa. Siden den gang har utvalget blitt utvidet og vi tilbyr nå et bredt spekter av produkter som kan forbedre holdningen og hjelpe med smertelindring.<\/p>",
+        "button_style": "btn-outline-primary",
+        "button_label": "Om Oss",
+        "button_link": "shopify:\/\/pages\/om-oss"
+      }
+    },
+    "163584739511c70230": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Bestselgere",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "home_featured_products": "alle-produkter",
+        "rows": "2",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "",
+        "button_style": "btn-outline-primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    }
+  },
+  "order": [
+    "1637325960a723ac8f",
+    "163577518155d0cfa9",
+    "16358413676827deec",
+    "1635839832c61f83f2",
+    "16358466932eca0b65",
+    "16358488013c1aad95",
+    "1635847349cfc999cc",
+    "16358473897202a471",
+    "163584739511c70230"
+  ]
+}
