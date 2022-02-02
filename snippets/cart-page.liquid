@@ -193,7 +193,7 @@
 
           <div class="grid__item medium--six-twelfths large--five-twelfths cart__right-item">
             <div class="card large--sticky medium--sticky sticky-check-header">
-              <div class="card-body">
+              <div class="card-body cart_form">
                 {%- if cart.cart_level_discount_applications != blank -%}
                   {%- for discount_application in cart.cart_level_discount_applications -%}
                     <div class="grid grid-small">
@@ -211,7 +211,7 @@
                   {%- endfor -%}
                 {%- endif -%}
 
-                <div class="cart__total-price-info spacer-bottom-sm">
+                <div class="cart__total-price-info spacer-bottom-sm total">
                   <div class="grid grid-small flex-nowrap cart__subtotal-wrapper">
                     <div class="grid__item flex-fill overflow-hidden">
                       <p class="cart__subtotal text-money spacer-bottom-none text-large text-ellipsis">{{ 'cart.general.subtotal' | t }}</p>

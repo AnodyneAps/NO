@@ -263,7 +263,6 @@
     {{ content_for_header }}
     {% render 'review-head' %}
   {% if content_for_header contains 'rio.pwztag.com' %}{% render 'productwiz-rio', product: product, shop: shop, installGuard: true %}{% endif %}
-
 <!-- Start of Sleeknote signup and lead generation tool - www.sleeknote.com -->
 <script id="sleeknoteScript" type="text/javascript">
 	(function () {
@@ -276,7 +275,6 @@
 	})();
 </script>
 <!-- End of Sleeknote signup and lead generation tool - www.sleeknote.com -->
-
 	{% render 'vitals-loader' %}
 </head>
 
@@ -374,13 +372,7 @@
     {%- if request.page_type == "product" -%}
     <script src="{{ 'no-counter.js' | asset_url }}" ></script>
     {%- endif -%}
-  {% render 'awesome-quantity', product: product %}  
-
-<!-- sh_sub-added -->
-{% render 'sh_sub-theme-snippet' %}
-<!-- /sh_sub-added -->
-
-{% include 'mw_GP_objects' %}  <!-- PickyStory snippet "main_widget_script", do not modify. Safe to remove after the app is uninstalled -->
+  {% render 'awesome-quantity', product: product %}  <!-- PickyStory snippet "main_widget_script", do not modify. Safe to remove after the app is uninstalled -->
   {% if content_for_header contains 'pickystory' %}
     <script defer src="https://cdn.pickystory.com/widget/dist/latest/pickystory-widget.min.js"></script>
   {% endif %}
