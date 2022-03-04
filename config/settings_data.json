@@ -71,6 +71,7 @@
     "dbtfy_back_in_stock": true,
     "dbtfy_cart_countdown": false,
     "dbtfy_cart_favicon": false,
+    "dbtfy_cart_discount": true,
     "dbtfy_collection_addtocart": false,
     "dbtfy_collection_filters": false,
     "dbtfy_color_swatches": true,
@@ -94,6 +95,7 @@
     "dbtfy_shop_protect": false,
     "dbtfy_skip_cart": false,
     "dbtfy_size_chart": false,
+    "dbtfy_social_discount": false,
     "dbtfy_sticky_addtocart": false,
     "synced_variant_image": false,
     "dbtfy_wish_list": false,
@@ -107,8 +109,9 @@
     "dbtfy_back_in_stock_body_suffix": "følgende produkt er tilgængeligt -",
     "dbtfy_cart_discount_label": "Rabattkode",
     "dbtfy_cart_discount_placeholder": "Har du en rabattkode? Aktiver den her:",
-    "dbtfy_cart_discount_apply_button_label": "Oppgi rabattkode",
-    "nlify_cart_notification": "Har du sjekket størrelsesguiden? Hvis du ligger mellom to størrelser bør du oftest velge den minste størrelsen",
+    "dbtfy_cart_discount_apply_button_label": "Skriv inn rabattkode",
+    "nlify_cart_notification": "",
+    "nlify_custom_drawer_icon": "",
     "dbtfy_cart_goal_before_text": "Nog",
     "dbtfy_cart_goal_amount": "500",
     "dbtfy_cart_goal_after_text": "ekstra for å få gratis levering!",
@@ -118,6 +121,7 @@
     "dbtfy_cookie_box_button_label": "Aksepter",
     "dbtfy_inactive_tab_message_text_first": "👕 up to 50% off",
     "dbtfy_inactive_tab_message_text_second": "👕 Anodyne discounts",
+    "dbtfy_infinite_scroll_options": "scroll",
     "dbtfy_inventory_quantity_threshold": 20,
     "dbtfy_menu_bar_link_list": "main-menu",
     "dbtfy_menu_bar_mobile": false,
@@ -155,6 +159,7 @@
     "dbtfy_social_discount_reward_button": "Kopier rabattkode",
     "dbtfy_social_discount_reward_code": "20GWS15",
     "dbtfy_social_discount_reward_amount": "10",
+    "dbtfy_trust_badge_cart": false,
     "dbtfy_trust_badge_text": "Rask og sikker betaling",
     "dbtfy_wish_list_add_text": "Legg til ønskeliste",
     "dbtfy_wish_list_remove_text": "Fjern fra ønskelisten",
@@ -194,6 +199,7 @@
         "blocks": {
           "4eee6fd4-018d-4a68-9e3f-379700f08e64": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -204,6 +210,7 @@
           },
           "dcc2d052-be68-4d16-b321-0abbad5fc59e": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -214,6 +221,7 @@
           },
           "1e20b74e-31e3-4d3d-9066-0ae17c5a9e72": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -224,6 +232,7 @@
           },
           "248b8fff-c7c2-4d95-9581-34eec5c364b9": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -234,6 +243,7 @@
           },
           "8e25db88-3f35-4291-8b0a-158836ea2c81": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -244,6 +254,7 @@
           },
           "e2556c2d-08ae-442c-bc7b-c13795b3db10": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -254,6 +265,7 @@
           },
           "09e08246-f2f1-46d0-94ef-7271db517739": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -264,6 +276,7 @@
           },
           "0ab9266c-90bd-4b9a-91a1-33e6a6a802e0": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -274,6 +287,7 @@
           },
           "4e1dbf60-619e-4b4f-89c4-db1c3df74139": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -352,8 +366,8 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.no\/pages\/anodyne-rabattkode\" title=\"https:\/\/www.anodyne.no\/pages\/anodyne-rabattkode\"><strong>FÅ EN RABATTKODE - KLIKK HER<\/strong><\/a><\/p>",
-              "announcement_counter": "",
+              "announcement_text": "<p>Ukens deal slutter om:<\/p>",
+              "announcement_counter": "Mar 7, 2022 23:59:59",
               "announcemen_link": "",
               "announcement_end_text": ""
             }
@@ -1103,7 +1117,7 @@
             "settings": {
               "card__icon": "shopify:\/\/shop_images\/Customerservice_copy_200px.png",
               "title": "Kundeservice",
-              "text": "<p>Kontakt oss på telefon <a href=\"tel:+47-21984737\" title=\"tel:+47-21984737\"><span style=\"text-decoration:underline\">+47-21984737<\/span><\/a> eller <a href=\"mailto:info@anodyne.no\"><span style=\"text-decoration:underline\">info@anodyne.no<\/span><\/a><\/p>",
+              "text": "<p>Kontakt oss på telefon <a href=\"tel:+45 5389 0017\" title=\"tel:+45 5389 0017\"><span style=\"text-decoration:underline\">+45 5389 0017<\/span><\/a> eller <a href=\"mailto:info@anodyne.no\"><span style=\"text-decoration:underline\">info@anodyne.no<\/span><\/a><\/p>",
               "card__alignement": "center",
               "text_alignment": "text-center",
               "type_row": "",
