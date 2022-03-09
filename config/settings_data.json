@@ -69,7 +69,7 @@
     "base_font_size": 15,
     "custom_quantity_breaks": true,
     "dbtfy_back_in_stock": true,
-    "dbtfy_cart_countdown": false,
+    "dbtfy_cart_countdown": true,
     "dbtfy_cart_favicon": false,
     "dbtfy_cart_discount": true,
     "dbtfy_collection_addtocart": false,
@@ -107,6 +107,11 @@
     "dbtfy_back_in_stock_success": "<p>Vi giver dig besked, ligeså snart produktet er på lager igen!<\/p>",
     "dbtfy_back_in_stock_body_prefix": "Giv mig venligst besked når",
     "dbtfy_back_in_stock_body_suffix": "følgende produkt er tilgængeligt -",
+    "dbtfy_cart_countdown_time_mins": 20,
+    "dbtfy_cart_countdown_icons": "update",
+    "dbtfy_cart_countdown_prefix": "Produktene dine er reservert for de neste",
+    "dbtfy_cart_countdown_icon_over": "update",
+    "dbtfy_cart_countdown_msg_over": "Bestill før varene dine er utsolgt!",
     "dbtfy_cart_discount_label": "Rabattkode",
     "dbtfy_cart_discount_placeholder": "Har du en rabattkode? Aktiver den her:",
     "dbtfy_cart_discount_apply_button_label": "Skriv inn rabattkode",
@@ -199,10 +204,9 @@
         "blocks": {
           "4eee6fd4-018d-4a68-9e3f-379700f08e64": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-svart",
               "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
@@ -210,10 +214,9 @@
           },
           "dcc2d052-be68-4d16-b321-0abbad5fc59e": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-svart",
               "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
@@ -221,10 +224,9 @@
           },
           "1e20b74e-31e3-4d3d-9066-0ae17c5a9e72": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-hvit",
               "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
@@ -232,10 +234,9 @@
           },
           "248b8fff-c7c2-4d95-9581-34eec5c364b9": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-hvit",
               "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
@@ -243,10 +244,9 @@
           },
           "8e25db88-3f35-4291-8b0a-158836ea2c81": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
               "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
@@ -254,10 +254,9 @@
           },
           "e2556c2d-08ae-442c-bc7b-c13795b3db10": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-svart",
               "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
@@ -265,10 +264,9 @@
           },
           "09e08246-f2f1-46d0-94ef-7271db517739": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-svart",
               "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
@@ -276,10 +274,9 @@
           },
           "0ab9266c-90bd-4b9a-91a1-33e6a6a802e0": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-hvit",
               "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
@@ -287,10 +284,9 @@
           },
           "4e1dbf60-619e-4b4f-89c4-db1c3df74139": {
             "type": "cart-item-upsell",
-            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
-              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>50 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
+              "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-hvit",
               "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
@@ -367,7 +363,7 @@
             "type": "message",
             "settings": {
               "announcement_text": "<p>Ukens deal slutter om:<\/p>",
-              "announcement_counter": "Mar 7, 2022 23:59:59",
+              "announcement_counter": "Mar 13, 2022 23:59:59",
               "announcemen_link": "",
               "announcement_end_text": ""
             }

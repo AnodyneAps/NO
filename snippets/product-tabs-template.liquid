@@ -905,12 +905,12 @@
         $('.single-option-radio > input').removeAttr('checked'); 
         $('#AddToCart--product-tabs-template').click(function(event){
           if($('.single-option-radio > input:checked').length){
-          setTimeout(function(){$('.single-option-radio > input').removeAttr('checked'); $('.variant-label-option-value').html(""); }, 6000 );
+          setTimeout(function(){$('.single-option-radio > input').removeAttr('checked'); $('.variant-label-option-value').html(""); }, 3000 );
           } else {
           event.preventDefault()
           $("#not_select_id").html("<p id='not_select-m'> {{ 'products.sizes.choose-size-message' | t }}</p>"); 
           $('.variant-label-option-value').html("");
-          setTimeout(function(){$("#not_select-m").hide();}, 5000);
+          setTimeout(function(){$("#not_select-m").hide();}, 3000);
           }
       });
     }
