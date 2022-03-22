@@ -57,6 +57,12 @@
     "color_transparent_nav_text": "#f7f7f7",
     "opacity_overlay": 16,
     "favicon": "shopify:\/\/shop_images\/Favicon.png",
+    "share_facebook": false,
+    "share_twitter": false,
+    "share_pinterest": false,
+    "share_whatsapp": false,
+    "share_email": false,
+    "share_messenger": false,
     "social_facebook_link": "https:\/\/www.facebook.com\/anodyne.no",
     "social_instagram_link": "https:\/\/www.instagram.com\/anodyne.no",
     "header_family": "poppins_n4",
@@ -68,6 +74,7 @@
     "base_family": "avenir_next_n4",
     "base_font_size": 15,
     "custom_quantity_breaks": true,
+    "dbtfy_agree_to_terms": true,
     "dbtfy_back_in_stock": true,
     "dbtfy_cart_countdown": true,
     "dbtfy_cart_favicon": false,
@@ -101,6 +108,10 @@
     "dbtfy_wish_list": false,
     "dbtfy_addtocart_animation_type": "pulse",
     "dbtfy_addtocart_animation_interval": 15,
+    "dbtfy_agree_text": "<p>Ved å fortsette bekrefter at jeg har lest, forstått og godtar Anodynes kjøpsbetingelser<\/p>",
+    "dbtfy_agree_warning_text": "<p>Du må godkjenne kjøpsbetingelser<\/p>",
+    "dbtfy_agree_order_title": "Ved å fortsette bekrefter at jeg har lest, forstått og godtar Anodynes kjøpsbetingelser",
+    "dbtfy_agree_order_yes_answer": "Ja",
     "dbtfy_back_in_stock_richtext": "<p>Giv mig besked, når produktet er på lager igen<\/p>",
     "dbtfy_back_in_stock_btn": "Giv mig besked",
     "dbtfy_back_in_stock_btn_animation": true,
@@ -208,7 +219,7 @@
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-svart",
-              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
+              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
             }
           },
@@ -218,7 +229,7 @@
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-svart",
-              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
+              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
             }
           },
@@ -228,7 +239,7 @@
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-hvit",
-              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
+              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
             }
           },
@@ -238,7 +249,7 @@
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-hvit",
-              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
+              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
             }
           },
@@ -248,7 +259,7 @@
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-nude",
-              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
+              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
             }
           },
@@ -258,7 +269,7 @@
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-svart",
-              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
+              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
             }
           },
@@ -268,7 +279,7 @@
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-svart",
-              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
+              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
             }
           },
@@ -278,7 +289,7 @@
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "mens-posture-shirt-zipper-hvit",
-              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
+              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
             }
           },
@@ -288,7 +299,7 @@
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
               "dbtfy_cart_specific_upsell_product_trigger": "womens-posture-shirt-zipper-hvit",
-              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest-basic",
+              "dbtfy_cart_specific_upsell_product_offer": "holdningsvest",
               "dbtfy_cart_specific_upsell_btn_title": "ja takk"
             }
           }
@@ -362,8 +373,8 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p>Ukens deal slutter om:<\/p>",
-              "announcement_counter": "Mar 20, 2022 23:59:59",
+              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.no\/collections\/alle-produkter\" title=\"https:\/\/www.anodyne.no\/collections\/alle-produkter\"><strong>Spar opptil <\/strong><span style=\"text-decoration:underline\"><strong>-34%<\/strong><\/span><strong> på alle produkter<\/strong><\/a><\/p>",
+              "announcement_counter": "",
               "announcemen_link": "",
               "announcement_end_text": ""
             }
@@ -1060,8 +1071,6 @@
           "rows": "4",
           "desktop_grid": "4",
           "mobile_grid": "2",
-          "collection_banner": "shopify:\/\/shop_images\/December-offers_NO.jpg",
-          "collection_banner_mobile": "shopify:\/\/shop_images\/December-offers_mobile_NO.jpg",
           "collection_banner_postureshirt": "shopify:\/\/shop_images\/Desktop_NO_d9dda56e-0562-4bb0-ad48-f26e63053490.jpg",
           "collection_banner_mobile_postureshirt": "shopify:\/\/shop_images\/Mobile_NO_67afc89e-634e-4511-a1ed-261e257ab0bb.jpg"
         }
