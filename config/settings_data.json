@@ -1063,6 +1063,8 @@
       "collection-template": {
         "type": "collection-template",
         "settings": {
+          "collection_stars": "shopify:\/\/shop_images\/tp_no_49ce645a-9388-4751-b015-bf724c6369ce.jpg",
+          "stars_url": "https:\/\/no.trustpilot.com\/search?query=Anodyne",
           "collection_tags_enable": false,
           "collection_tags_count": false,
           "collection_multiple_tags_filtering_enable": false,
@@ -1070,9 +1072,7 @@
           "tag_selector": "button",
           "rows": "4",
           "desktop_grid": "4",
-          "mobile_grid": "2",
-          "collection_banner_postureshirt": "shopify:\/\/shop_images\/Desktop_NO_d9dda56e-0562-4bb0-ad48-f26e63053490.jpg",
-          "collection_banner_mobile_postureshirt": "shopify:\/\/shop_images\/Mobile_NO_67afc89e-634e-4511-a1ed-261e257ab0bb.jpg"
+          "mobile_grid": "2"
         }
       },
       "dbtfy-collection-filters": {
