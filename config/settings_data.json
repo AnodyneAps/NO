@@ -374,15 +374,49 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p><a href=\"https:\/\/www.anodyne.no\/collections\/alle-produkter\" title=\"https:\/\/www.anodyne.no\/collections\/alle-produkter\"><strong>Spar opptil <\/strong><span style=\"text-decoration:underline\"><strong>-34%<\/strong><\/span><strong> på alle produkter<\/strong><\/a><\/p>",
+              "announcement_text": "<p>Gratis frakt på bestillinger over 499 kr.<\/p>",
+              "icon_selector": "truck",
               "announcement_counter": "",
+              "announcemen_link": "https:\/\/www.anodyne.no\/collections\/alle-produkter",
+              "announcement_end_text": ""
+            }
+          },
+          "b577e688-1d0e-4ac1-8417-1d2693eda71a": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Vi tilbyr 30 dagers gratis returrett<\/p>",
+              "icon_selector": "return",
+              "announcement_counter": "Nov 20, 2021 23:59:59",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "a18c850e-4dbf-4714-bb6f-ebeee5e499c3": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Prøv 100% gratis - Velg Klarna for å betale senere<\/p>",
+              "icon_selector": "smily",
+              "announcement_counter": "Nov 20, 2021 23:59:59",
+              "announcemen_link": "",
+              "announcement_end_text": ""
+            }
+          },
+          "1fc1c611-e49a-40e8-b0a0-bfdd17f1eca6": {
+            "type": "message",
+            "settings": {
+              "announcement_text": "<p>Medisinsk registrert - MDR, CE & FDA registrert<\/p>",
+              "icon_selector": "checkmark",
+              "announcement_counter": "Nov 20, 2021 23:59:59",
               "announcemen_link": "",
               "announcement_end_text": ""
             }
           }
         },
         "block_order": [
-          "announcement-0"
+          "announcement-0",
+          "b577e688-1d0e-4ac1-8417-1d2693eda71a",
+          "a18c850e-4dbf-4714-bb6f-ebeee5e499c3",
+          "1fc1c611-e49a-40e8-b0a0-bfdd17f1eca6"
         ],
         "settings": {
           "show_announcement": true,
@@ -766,9 +800,9 @@
           "show_overlay": false,
           "image": "shopify:\/\/shop_images\/fvcover.png",
           "image_position": "center center",
-          "video_title": "<span class=\"first\">Posture Shirt™<\/span>",
+          "video_title": "<span class=\"first\">Anodyne®<\/span>",
           "text_size": "medium",
-          "text_description": "<p><strong>Utviklet i samarbeid med kiropraktorer, leger og fysioterapeuter. <\/strong><\/p>",
+          "text_description": "<p><strong>Spar opptil <\/strong><span style=\"text-decoration:underline\"><strong>-34%<\/strong><\/span><strong> på alle produkter<\/strong><\/p>",
           "text_description_size": "medium",
           "button_label": "kvinner",
           "button_link": "shopify:\/\/collections\/kvinner",
