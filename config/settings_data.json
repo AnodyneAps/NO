@@ -394,7 +394,7 @@
           "a18c850e-4dbf-4714-bb6f-ebeee5e499c3": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p>Prøv 100% gratis - Velg Klarna for å betale senere<\/p>",
+              "announcement_text": "<p>Prøv 100% gratis - Velg Klarna<\/p>",
               "icon_selector": "smily",
               "announcement_counter": "Nov 20, 2021 23:59:59",
               "announcemen_link": "",
@@ -404,7 +404,7 @@
           "1fc1c611-e49a-40e8-b0a0-bfdd17f1eca6": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p>Medisinsk registrert - MDR, CE & FDA registrert<\/p>",
+              "announcement_text": "<p>Medisinsk registrert - MDR, CE & FDA<\/p>",
               "icon_selector": "checkmark",
               "announcement_counter": "Nov 20, 2021 23:59:59",
               "announcemen_link": "",
