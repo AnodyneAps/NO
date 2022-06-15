@@ -377,7 +377,7 @@
               "announcement_text": "<p>Gratis frakt på bestillinger over 499 kr.<\/p>",
               "icon_selector": "truck",
               "announcement_counter": "",
-              "announcemen_link": "https:\/\/www.anodyne.no\/collections\/alle-produkter",
+              "announcement_link": "",
               "announcement_end_text": ""
             }
           },
@@ -387,7 +387,7 @@
               "announcement_text": "<p>Vi tilbyr 30 dagers gratis returrett<\/p>",
               "icon_selector": "return",
               "announcement_counter": "Nov 20, 2021 23:59:59",
-              "announcemen_link": "",
+              "announcement_link": "",
               "announcement_end_text": ""
             }
           },
@@ -397,7 +397,7 @@
               "announcement_text": "<p>Prøv 100% gratis - Velg Klarna<\/p>",
               "icon_selector": "smily",
               "announcement_counter": "Nov 20, 2021 23:59:59",
-              "announcemen_link": "",
+              "announcement_link": "",
               "announcement_end_text": ""
             }
           },
@@ -407,7 +407,7 @@
               "announcement_text": "<p>Medisinsk registrert - MDR, CE & FDA<\/p>",
               "icon_selector": "checkmark",
               "announcement_counter": "Nov 20, 2021 23:59:59",
-              "announcemen_link": "",
+              "announcement_link": "",
               "announcement_end_text": ""
             }
           }
@@ -1315,7 +1315,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Hvordan tar jeg best vare på produktene?",
-              "text": "<p>Anodyne-produkter kan maskinvaskes ved maksimalt 30 grader, men for å oppnå lengst mulig levetid på produktene, anbefaler vi at du håndvasker dem. De må ALDRI legges i tørketrommel fordi slik behandling ødelegger klærne. <\/p>"
+              "text": "<p>For å oppnå lengst mulig levetid på produktene, anbefaler vi at du håndvasker dem. De må ALDRI legges i tørketrommel fordi slik behandling ødelegger klærne. <\/p>"
             }
           },
           "194f87ee-fb61-46c9-a9d8-e480c66172f9": {
@@ -1333,7 +1333,7 @@
               "dbtfy_faq_page_open": false,
               "dbtfy_faq_page_icon": "",
               "title": "Hvor lenge holder trøyen min?",
-              "text": "<p>Det avhenger av hvordan du behandler den og hvor ofte og lenge du bruker den. Som med alle andre klær vil klærne vise tegn på slitasje avhengig av hvor mye det brukes. Holdbarheten avhenger spesielt av at klærne IKKE tørkes i tørketrommel eller vaskes i vann over 30 grader i maskin. Vi anbefaler håndvask for å oppnå lengst mulig levetid på produktene.<\/p>"
+              "text": "<p>Det avhenger av hvordan du behandler den og hvor ofte og lenge du bruker den. Som med alle andre klær vil klærne vise tegn på slitasje avhengig av hvor mye det brukes. Holdbarheten avhenger spesielt av at klærne IKKE tørkes i tørketrommel eller vaskes i vann over 30 grader i hånden. Vi anbefaler håndvask for å oppnå lengst mulig levetid på produktene.<\/p>"
             }
           },
           "279a45bb-5ce6-4119-9ce4-d8f206a51da3": {
