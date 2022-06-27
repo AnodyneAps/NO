@@ -79,7 +79,7 @@
     "dbtfy_back_in_stock": true,
     "dbtfy_cart_countdown": true,
     "dbtfy_cart_favicon": false,
-    "dbtfy_cart_discount": true,
+    "dbtfy_cart_discount": false,
     "dbtfy_collection_addtocart": false,
     "dbtfy_collection_filters": false,
     "dbtfy_color_swatches": true,
@@ -109,7 +109,7 @@
     "dbtfy_wish_list": false,
     "dbtfy_addtocart_animation_type": "pulse",
     "dbtfy_addtocart_animation_interval": 15,
-    "dbtfy_agree_text": "<p>Ved å fortsette bekrefter at jeg har lest, forstått og godtar Anodynes <a href=\"https:\/\/www.anodyne.no\/policies\/terms-of-service\" title=\"https:\/\/www.anodyne.no\/policies\/terms-of-service\">kjøpsbetingelser<\/a><\/p>",
+    "dbtfy_agree_text": "<p>Ved å fortsette bekrefter jeg at jeg har lest, forstått og godtar Anodynes <a href=\"https:\/\/www.anodyne.no\/policies\/terms-of-service\" title=\"https:\/\/www.anodyne.no\/policies\/terms-of-service\">kjøpsbetingelser<\/a><\/p>",
     "dbtfy_agree_warning_text": "<p>Du må godkjenne kjøpsbetingelser<\/p>",
     "dbtfy_agree_order_title": "Ved å fortsette bekrefter at jeg har lest, forstått og godtar Anodynes kjøpsbetingelser",
     "dbtfy_agree_order_yes_answer": "Ja",
@@ -216,6 +216,7 @@
         "blocks": {
           "4eee6fd4-018d-4a68-9e3f-379700f08e64": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -226,6 +227,7 @@
           },
           "dcc2d052-be68-4d16-b321-0abbad5fc59e": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -236,6 +238,7 @@
           },
           "1e20b74e-31e3-4d3d-9066-0ae17c5a9e72": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -246,6 +249,7 @@
           },
           "248b8fff-c7c2-4d95-9581-34eec5c364b9": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -256,6 +260,7 @@
           },
           "8e25db88-3f35-4291-8b0a-158836ea2c81": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -266,6 +271,7 @@
           },
           "e2556c2d-08ae-442c-bc7b-c13795b3db10": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -276,6 +282,7 @@
           },
           "09e08246-f2f1-46d0-94ef-7271db517739": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -286,6 +293,7 @@
           },
           "0ab9266c-90bd-4b9a-91a1-33e6a6a802e0": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -296,6 +304,7 @@
           },
           "4e1dbf60-619e-4b4f-89c4-db1c3df74139": {
             "type": "cart-item-upsell",
+            "disabled": true,
             "settings": {
               "dbtfy_cart_upsell_replace_item": "add",
               "dbtfy_cart_specific_upsell_title": "Vil du spare <strong>30 %<\/strong> på en Holdningsvest Basic (normalpris 490,00 kr.)?",
@@ -374,15 +383,16 @@
           "announcement-0": {
             "type": "message",
             "settings": {
-              "announcement_text": "<p>Gratis frakt på bestillinger over 499 kr.<\/p>",
-              "icon_selector": "truck",
+              "announcement_text": "<p><span style=\"text-decoration:underline\">Klikk her<\/span> og spar 10 % ekstra<\/p>",
+              "icon_selector": "none",
               "announcement_counter": "",
-              "announcement_link": "",
+              "announcement_link": "shopify:\/\/pages\/anodyne-rabattkode",
               "announcement_end_text": ""
             }
           },
           "b577e688-1d0e-4ac1-8417-1d2693eda71a": {
             "type": "message",
+            "disabled": true,
             "settings": {
               "announcement_text": "<p>Vi tilbyr 30 dagers gratis returrett<\/p>",
               "icon_selector": "return",
@@ -393,6 +403,7 @@
           },
           "a18c850e-4dbf-4714-bb6f-ebeee5e499c3": {
             "type": "message",
+            "disabled": true,
             "settings": {
               "announcement_text": "<p>Prøv 100% gratis - Velg Klarna<\/p>",
               "icon_selector": "smily",
@@ -403,6 +414,7 @@
           },
           "1fc1c611-e49a-40e8-b0a0-bfdd17f1eca6": {
             "type": "message",
+            "disabled": true,
             "settings": {
               "announcement_text": "<p>Medisinsk registrert - MDR, CE & FDA<\/p>",
               "icon_selector": "checkmark",
@@ -579,10 +591,12 @@
         "settings": {
           "show_social_media": false,
           "social_title": "Follow-us on social media!",
-          "show_payment_icons": true,
+          "show_payment_icons": false,
           "show_shopify_footer": false,
           "show_debutify_footer": false,
-          "custom_credential": "<p>P.O. Pedersens Vej 9, 8200 Aarhus N, Danmark - Org. nr.: 918 583 254.<br\/><\/p><p><\/p>"
+          "custom_credential": "<p>P.O. Pedersens Vej 9, 8200 Aarhus N, Danmark - Org. nr.: 918 583 254.<br\/><\/p><p><\/p>",
+          "bottom_counter_text": "Vi sender pakken din innen",
+          "show_bottom_counter": false
         }
       },
       "product-template": {
@@ -1148,7 +1162,10 @@
           "dbtfy_product_description_position": "separate_section",
           "description_style": "section-border",
           "text_alignment": "text-center",
-          "text_alignment_mobile": "small--text-center"
+          "text_alignment_mobile": "small--text-center",
+          "show_instead_of_counter_text": true,
+          "instead-of-counter-text": "<p><strong>Klikk her<\/strong> og spar <strong>10 %<\/strong> ekstra <\/p>",
+          "instead-of-counter-link": ""
         }
       },
       "product-cards": {
