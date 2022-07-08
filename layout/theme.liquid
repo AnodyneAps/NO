@@ -264,6 +264,16 @@
     {% render 'review-head' %}
   {% if content_for_header contains 'rio.pwztag.com' %}{% render 'productwiz-rio', product: product, shop: shop, installGuard: true %}{% endif %}
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JDTP2M18VS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JDTP2M18VS');
+</script>
+
 <!-- Start of Sleeknote signup and lead generation tool - www.sleeknote.com -->
 <script id="sleeknoteScript" type="text/javascript">
 	(function () {
